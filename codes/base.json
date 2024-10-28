@@ -1,0 +1,563 @@
+[
+    {
+        "name": "Ultimate Fudgy Vegan Chocolate Brownies",
+        "source": "The Loopy Whisk",
+        "ingredients": [
+            {
+                "name": "all-purpose flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["almond flour", "oat flour"]
+            },
+            {
+                "name": "brown sugar",
+                "amount": "1 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["coconut sugar", "white sugar"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/2 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "plant-based milk",
+                "amount": "1/2 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["almond milk", "soy milk"]
+            },
+            {
+                "name": "vegetable oil",
+                "amount": "1/3 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["coconut oil", "canola oil"]
+            },
+            {
+                "name": "maple syrup",
+                "amount": "1/4 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["agave syrup", "honey (non-vegan)"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking powder",
+                "amount": "1/2 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": ["baking soda (with acid)"]
+            },
+            {
+                "name": "salt",
+                "amount": "1/4 tsp",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            },
+            {
+                "name": "vegan chocolate chips",
+                "amount": "optional",
+                "type": "add-in",
+                "role": "flavor",
+                "substitutes": ["nuts", "dried fruit"]
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix dry ingredients in one bowl and wet ingredients in another.",
+            "Combine wet and dry ingredients until just mixed.",
+            "Pour batter into a lined baking pan and bake for 20-25 minutes."
+        ],
+        "tags": ["vegan", "chocolate", "brownies", "dessert"]
+    },
+    {
+        "name": "Vegan Brownie Mix",
+        "source": "Serious Eats",
+        "ingredients": [
+            {
+                "name": "almond flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["coconut flour", "oat flour"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/2 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "baking powder",
+                "amount": "1/2 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": ["baking soda (with acid)"]
+            },
+            {
+                "name": "salt",
+                "amount": "1/2 tsp",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            },
+            {
+                "name": "sugar",
+                "amount": "1/2 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["brown sugar", "maple syrup"]
+            }
+        ],
+        "steps": [
+            "Combine dry ingredients in a bowl.",
+            "Add wet ingredients (like almond milk and oil) and mix until combined.",
+            "Bake at 350°F (175°C) for 20-25 minutes."
+        ],
+        "tags": ["vegan", "brownies", "dessert"]
+    },
+    {
+        "name": "Gluten-Free Vegan Brownies",
+        "source": "Butternut Bakery",
+        "ingredients": [
+            {
+                "name": "almond flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["coconut flour", "oat flour"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/2 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "coconut sugar",
+                "amount": "1/2 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["brown sugar", "white sugar"]
+            },
+            {
+                "name": "maple syrup",
+                "amount": "1/4 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["agave syrup", "honey (non-vegan)"]
+            },
+            {
+                "name": "melted coconut oil",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["vegetable oil", "canola oil"]
+            },
+            {
+                "name": "almond milk",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["soy milk", "oat milk"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking soda",
+                "amount": "1/4 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix all ingredients until smooth.",
+            "Pour into a lined pan and bake for 25-30 minutes."
+        ],
+        "tags": ["vegan", "gluten-free", "brownies", "dessert"]
+    },
+    {
+        "name": "Vegan Sourdough Brownies",
+        "source": "Top With Cinnamon",
+        "ingredients": [
+            {
+                "name": "sourdough starter",
+                "amount": "1/2 cup",
+                "type": "wet",
+                "role": "structure",
+                "substitutes": []
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/2 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "sugar",
+                "amount": "1/2 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["brown sugar", "coconut sugar"]
+            },
+            {
+                "name": "vegetable oil",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["coconut oil", "canola oil"]
+            },
+            {
+                "name": "almond milk",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["soy milk", "oat milk"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking powder",
+                "amount": "1/4 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": []
+            },
+            {
+                "name": "salt",
+                "amount": "pinch",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix wet and dry ingredients separately, then combine.",
+            "Bake for 25-30 minutes."
+        ],
+        "tags": ["vegan", "sourdough", "brownies", "dessert"]
+    },
+    {
+        "name": "Simple Vegan Brownies",
+        "source": "Minimalist Baker",
+        "ingredients": [
+            {
+                "name": "almond flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["coconut flour", "oat flour"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/2 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "maple syrup",
+                "amount": "1/2 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["agave syrup", "honey (non-vegan)"]
+            },
+            {
+                "name": "almond butter",
+                "amount": "1/2 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["peanut butter", "sunflower seed butter"]
+            },
+            {
+                "name": "plant-based milk",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["soy milk", "oat milk"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking powder",
+                "amount": "1/2 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": []
+            },
+            {
+                "name": "salt",
+                "amount": "pinch",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Combine wet ingredients, then mix in dry ingredients.",
+            "Bake for 25-30 minutes."
+        ],
+        "tags": ["vegan", "brownies", "dessert"]
+    },
+    {
+        "name": "Vegan Almond Flour Brownies",
+        "source": "Jessica in the Kitchen",
+        "ingredients": [
+            {
+                "name": "almond flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["coconut flour", "oat flour"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/3 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "maple syrup",
+                "amount": "1/3 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["agave syrup", "honey (non-vegan)"]
+            },
+            {
+                "name": "almond butter",
+                "amount": "1/3 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["peanut butter", "sunflower seed butter"]
+            },
+            {
+                "name": "plant-based milk",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["soy milk", "oat milk"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking soda",
+                "amount": "1/2 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": []
+            },
+            {
+                "name": "salt",
+                "amount": "pinch",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix wet and dry ingredients separately, then combine.",
+            "Pour into a lined pan and bake for 25-30 minutes."
+        ],
+        "tags": ["vegan", "brownies", "dessert"]
+    },
+    {
+        "name": "Best Ever Vegan Brownies",
+        "source": "Nora Cooks",
+        "ingredients": [
+            {
+                "name": "flour",
+                "amount": "1 cup",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["almond flour", "oat flour"]
+            },
+            {
+                "name": "sugar",
+                "amount": "1 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["brown sugar", "coconut sugar"]
+            },
+            {
+                "name": "cocoa powder",
+                "amount": "1/3 cup",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["carob powder"]
+            },
+            {
+                "name": "melted coconut oil",
+                "amount": "1/2 cup",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["vegetable oil", "canola oil"]
+            },
+            {
+                "name": "almond milk",
+                "amount": "1/4 cup",
+                "type": "wet",
+                "role": "liquid",
+                "substitutes": ["soy milk", "oat milk"]
+            },
+            {
+                "name": "maple syrup",
+                "amount": "1/4 cup",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["agave syrup", "honey (non-vegan)"]
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "baking powder",
+                "amount": "1/2 tsp",
+                "type": "leavening",
+                "role": "rising agent",
+                "substitutes": []
+            },
+            {
+                "name": "salt",
+                "amount": "pinch",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": ["sea salt"]
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (175°C).",
+            "Mix all ingredients in a bowl until smooth.",
+            "Bake for 25-30 minutes."
+        ],
+        "tags": ["vegan", "brownies", "dessert"]
+    },
+    {
+        "name": "The Absolute Best Vegan Brownies",
+        "source": "Rainbow Plant Life",
+        "ingredients": [
+            {
+                "name": "aquafaba",
+                "amount": "1/2 cup",
+                "type": "wet",
+                "role": "binding",
+                "substitutes": ["flaxseed meal + water"]
+            },
+            {
+                "name": "cane sugar",
+                "amount": "1 ½ cups",
+                "type": "sweet",
+                "role": "sweetener",
+                "substitutes": ["brown sugar", "coconut sugar"]
+            },
+            {
+                "name": "dark chocolate",
+                "amount": "6 oz",
+                "type": "wet",
+                "role": "flavor",
+                "substitutes": ["semi-sweet chocolate"]
+            },
+            {
+                "name": "vegan butter",
+                "amount": "8 tbsp",
+                "type": "wet",
+                "role": "fat",
+                "substitutes": ["coconut oil"]
+            },
+            {
+                "name": "all-purpose flour",
+                "amount": "1 ½ cups",
+                "type": "dry",
+                "role": "structure",
+                "substitutes": ["almond flour", "oat flour"]
+            },
+            {
+                "name": "Dutch cocoa powder",
+                "amount": "7 tbsp",
+                "type": "dry",
+                "role": "flavor",
+                "substitutes": ["regular cocoa powder"]
+            },
+            {
+                "name": "sea salt",
+                "amount": "¾ tsp",
+                "type": "spice",
+                "role": "seasoning",
+                "substitutes": []
+            },
+            {
+                "name": "vanilla extract",
+                "amount": "1 tbsp",
+                "type": "flavor",
+                "role": "flavor",
+                "substitutes": ["vanilla bean", "almond extract"]
+            },
+            {
+                "name": "espresso powder",
+                "amount": "1 tsp",
+                "type": "flavor",
+                "role": "enhancer",
+                "substitutes": ["instant coffee"]
+            },
+            {
+                "name": "chocolate chips",
+                "amount": "3 oz",
+                "type": "add-in",
+                "role": "flavor",
+                "substitutes": []
+            }
+        ],
+        "steps": [
+            "Preheat oven to 350°F (176°C).",
+            "Sift flour and cocoa powder.",
+            "Whip aquafaba and sugar until thick and glossy.",
+            "Melt chocolate and butter together.",
+            "Combine all mixtures, pour into pan, and bake for 34-37 minutes."
+        ],
+        "tags": ["vegan", "brownies", "dessert"]
+    }
+]
